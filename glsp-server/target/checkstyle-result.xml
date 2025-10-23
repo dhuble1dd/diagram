@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.44">
+<file name="E:\Projects\theia\diagram\glsp-server\src\main\java\org\eclipse\glsp\example\javaemf\handler\CreateTaskNodeHandler.java">
+</file>
+<file name="E:\Projects\theia\diagram\glsp-server\src\main\java\org\eclipse\glsp\example\javaemf\handler\DeleteTaskNodeHandler.java">
+</file>
+<file name="E:\Projects\theia\diagram\glsp-server\src\main\java\org\eclipse\glsp\example\javaemf\launch\TaskListServerLauncher.java">
+</file>
+<file name="E:\Projects\theia\diagram\glsp-server\src\main\java\org\eclipse\glsp\example\javaemf\model\TaskListGModelFactory.java">
+</file>
+<file name="E:\Projects\theia\diagram\glsp-server\src\main\java\org\eclipse\glsp\example\javaemf\model\TaskListSourceModelStorage.java">
+</file>
+<file name="E:\Projects\theia\diagram\glsp-server\src\main\java\org\eclipse\glsp\example\javaemf\palette\TaskListToolPaletteItemProvider.java">
+</file>
+<file name="E:\Projects\theia\diagram\glsp-server\src\main\java\org\eclipse\glsp\example\javaemf\TaskListDiagramConfiguration.java">
+</file>
+<file name="E:\Projects\theia\diagram\glsp-server\src\main\java\org\eclipse\glsp\example\javaemf\TaskListDiagramModule.java">
+</file>
+<file name="E:\Projects\theia\diagram\glsp-server\src\main\java\org\eclipse\glsp\example\javaemf\TaskListModelTypes.java">
+</file>
+</checkstyle>
